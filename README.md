@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+<td tabindex="0" data-ix="18" aria-selected="false" aria-describedby="contribution-graph-legend-level-0" style="width: 10px" data-date="2024-05-10" id="contribution-day-component-5-18" data-level="0" role="gridcell" data-view-component="true" class="ContributionCalendar-day" aria-labelledby="tooltip-b48ed821-4530-444e-8e07-e4a996471617"></td><!--
 **tmadenwa/tmadenwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
